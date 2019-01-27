@@ -1,0 +1,6 @@
+book_filename: "the-four-bad-guys"
+delete_merged_file: true
+output_dir: "docs"
+language:
+  ui:
+    chapter_name: "Chapter "
