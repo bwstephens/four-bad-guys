@@ -1,6 +1,5 @@
 --- 
-title: "The Four Bad Guys"
-subtitle: "Book 5"
+title: "Book 5: The Four Bad Guys"
 author: "Beckett Stephens"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
